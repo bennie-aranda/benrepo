@@ -15,7 +15,6 @@ def main():
         restart = input("Do you want to run the program again? (y/n)")
         if restart.lower() != 'y':
             print("thank you for playing along!")
-            print("")
             break
      
 if __name__ == "__main__":
