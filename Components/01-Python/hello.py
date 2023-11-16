@@ -1,6 +1,6 @@
 def main():
     while True:
-        print("choose a number?")
+        print("Choose a Number?")
         x = int(input())
 
         if x > 2:
